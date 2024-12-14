@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/video-editor-portfolio/static/css/main.f1c9bdf9.css",
+    "main.js": "/video-editor-portfolio/static/js/main.a1590b6d.js",
+    "static/js/453.62fea3c9.chunk.js": "/video-editor-portfolio/static/js/453.62fea3c9.chunk.js",
+    "static/media/frontshady.jpg": "/video-editor-portfolio/static/media/frontshady.2649a0ab85cd089d9590.jpg",
+    "static/media/11zon_cropped.jpeg": "/video-editor-portfolio/static/media/11zon_cropped.aff84532df08482787e6.jpeg",
+    "static/media/440107671_749711693965788__n.jpg": "/video-editor-portfolio/static/media/440107671_749711693965788_8303884360190262253_n.e53020070d9a62db809e.jpg",
+    "static/media/HEAVY.png": "/video-editor-portfolio/static/media/HEAVY.e3ec3b78469f9cea6d39.png",
+    "static/media/STANDARD.png": "/video-editor-portfolio/static/media/STANDARD.e5cb3a4e5fa9828027b4.png",
+    "static/media/LIGHT.png": "/video-editor-portfolio/static/media/LIGHT.8860ee31fcffc1cb90ac.png",
+    "static/media/desktop-annan-inner.jpg": "/video-editor-portfolio/static/media/desktop-annan-inner.7edd3e8239a4f32fbcd6.jpg",
+    "static/media/Screenshot_2021-01-21-06-51-20-79.png": "/video-editor-portfolio/static/media/Screenshot_2021-01-21-06-51-20-79.b89f9c5a6b40e6de50df.png",
+    "static/media/coloring.png": "/video-editor-portfolio/static/media/coloring.6812d82fd2ddbe2d2232.png",
+    "static/media/fa-solid-900.ttf": "/video-editor-portfolio/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/adnan.jpg": "/video-editor-portfolio/static/media/adnan.b11b777b22e7cdcc2c0e.jpg",
+    "static/media/fa-brands-400.ttf": "/video-editor-portfolio/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/video-editor-portfolio/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/channels4_profile (1).jpg": "/video-editor-portfolio/static/media/channels4_profile (1).c71f9c5cca39c1ed300c.jpg",
+    "static/media/458990634___n.jpg": "/video-editor-portfolio/static/media/458990634_1027929648637068_771737664904914066_n.9abfc9c2d499681697e7.jpg",
+    "static/media/fa-brands-400.woff2": "/video-editor-portfolio/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/~c5_1080x1080.jpeg": "/video-editor-portfolio/static/media/7340476290791079941~c5_1080x1080.63b4c3b25fd85ef2be94.jpeg",
+    "static/media/images (8).jpeg": "/video-editor-portfolio/static/media/images (8).a0b03fc747d7dc0ae5d1.jpeg",
+    "static/media/fa-regular-400.ttf": "/video-editor-portfolio/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/jpg": "/video-editor-portfolio/static/media/19443331371664378392.721bef8cad3a140c2b54.jpg",
+    "static/media/eisa.webp": "/video-editor-portfolio/static/media/eisa.d8a3cda52eba952c7e0b.webp",
+    "static/media/1712000516842.jpeg": "/video-editor-portfolio/static/media/1712000516842.ab21406fe742fc4a290f.jpeg",
+    "static/media/fa-regular-400.woff2": "/video-editor-portfolio/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/yenfaa.jpg": "/video-editor-portfolio/static/media/yenfaa.8f398289fbfaf3ddd03b.jpg",
+    "static/media/clogo_2020-02-09-14-20-07_SXfTxOTYo5IHjXu03RoIIwXX.jpg": "/video-editor-portfolio/static/media/clogo_2020-02-09-14-20-07_SXfTxOTYo5IHjXu03RoIIwXX.61c70391e9067cf643b4.jpg",
+    "static/media/undraw_group_video_re_btu7.svg": "/video-editor-portfolio/static/media/undraw_group_video_re_btu7.557662936de411bcf735c00b6e7b95f4.svg",
+    "static/media/fa-v4compatibility.ttf": "/video-editor-portfolio/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/video-editor-portfolio/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/video-editor-portfolio/index.html",
+    "main.f1c9bdf9.css.map": "/video-editor-portfolio/static/css/main.f1c9bdf9.css.map",
+    "main.a1590b6d.js.map": "/video-editor-portfolio/static/js/main.a1590b6d.js.map",
+    "453.62fea3c9.chunk.js.map": "/video-editor-portfolio/static/js/453.62fea3c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1c9bdf9.css",
+    "static/js/main.a1590b6d.js"
+  ]
+}
