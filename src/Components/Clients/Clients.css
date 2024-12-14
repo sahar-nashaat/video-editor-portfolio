@@ -1,0 +1,86 @@
+.client-img-wrapper {
+    width: 100%;
+    height: 12rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+  }
+  
+  .client-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    cursor: pointer;
+  }
+
+
+.client-img:hover{
+border:2px solid #ffffff;
+  transition: all 0.2s ease-in;
+}
+.video{
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.9);
+  position: absolute;
+  display: flex;
+  position: fixed; /* Position fixed to stay in place */
+  top: 0; /* Align to the top of the screen */
+  left: 0; /* Align to the left of the screen */
+  display: flex; /* Use flexbox for centering */
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  z-index: 1000;
+}
+
+
+.fa-xmark {
+  position: absolute; /* Position close icon */
+  top: 3rem; /* Top spacing */
+  right: 3rem; /* Right spacing */
+  font-size: 2rem; /* Adjust size */
+  color: white; /* Color for visibility */
+  cursor: pointer; /* Pointer cursor */
+}
+/* Adjust client image container for smaller screens */
+@media (max-width: 768px) {
+  .client-img-wrapper {
+    height: 8rem; /* Smaller height */
+  }
+
+  .client-img {
+    width: 100%; /* Maintain aspect ratio */
+    height: 100%;
+  }
+
+  .client p {
+    font-size: 0.9rem; /* Smaller text */
+  }
+
+  .fa-xmark {
+    top: 1rem; /* Adjust position */
+    right: 1rem;
+    font-size: 1.5rem; /* Reduce size */
+  }
+
+
+}
+
+/* For extra-small screens */
+@media (max-width: 576px) {
+  .client-img-wrapper {
+    height: 6rem; /* Further reduce height */
+  }
+
+  .client p {
+    font-size: 0.8rem; /* Even smaller text */
+  }
+}
+@media (max-width: 576px) {
+  .col-sm-4,
+  .col-6 {
+    flex: 0 0 100%; /* Single-column layout */
+    max-width: 100%;
+  }
+}

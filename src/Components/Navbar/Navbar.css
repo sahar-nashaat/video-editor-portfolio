@@ -1,0 +1,17 @@
+.navbar {
+    background-color: #000018; /* Matches .cardBg */
+  }
+  
+  .navbar .nav-link {
+    color: #CFD0D8; /* White text color */
+    transition: color 0.3s ease;
+  }
+  
+  .navbar .nav-link:hover {
+    color: #00DCD6; /* Vibrant hover color */
+  }
+  
+  .navbar .nav-link.active {
+    color: #0077C0; /* Primary color for active link */
+  }
+  

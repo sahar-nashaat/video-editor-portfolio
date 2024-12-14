@@ -1,0 +1,42 @@
+.btn{
+border: 1px solid #0077C0;
+}
+.btn:hover{
+    background-color: #0077C0;
+    color: white;
+}
+/* General styles for desktop and larger screens */
+.service {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .service img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Responsive adjustments for smaller devices */
+  @media (max-width: 768px) {
+    .service {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .service > div {
+      margin-bottom: 20px; /* Add space between cards */
+      width: 80%; /* Reduce card width */
+    }
+  
+    .btn {
+      font-size: 14px; /* Adjust button size for mobile */
+      width: 60%; /* Reduce button width */
+    }
+  
+    h2 {
+      font-size: 1.5rem; /* Smaller headings for mobile */
+    }
+  }
+  
